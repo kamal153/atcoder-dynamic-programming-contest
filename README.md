@@ -1,1 +1,3 @@
-# atcoder-dynamic-programming-contest / https://atcoder.jp/contests/dp/tasks
+# atcoder-dynamic-programming-contest
+
+https://atcoder.jp/contests/dp/tasks
